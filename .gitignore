@@ -1,6 +1,7 @@
 node_modules/
 node_modules
 package-lock.json
+part3/
 # Logs
 logs
 *.log

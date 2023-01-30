@@ -36,7 +36,6 @@ const App = () => {
     const copy = [...points]
     copy[selected] += 1
     console.log(calculateMostVoted())
-
     return setPoints(copy)
   }
 
